@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    color: red;
+}
+
+/* ---------Banner Style------- */
+.header-banner{
+    background-image: url(../images/donation0.jpg) width:400px;
+}
